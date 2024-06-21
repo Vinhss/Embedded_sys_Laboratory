@@ -1,0 +1,60 @@
+Dependencies for Project 'lab4_task3', Target 'Target 1': (DO NOT MODIFY !)
+F (..\main.c)(0x665804C6)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x562755EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7840C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5EC7840C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\LPC17xx.h)(0x65C5F7EE)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625C51C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\system_LPC17xx.h)(0x65C5F7EE)
+I (..\Uart.h)(0x6657EF5E)
+I (..\Joystick.h)(0x5DAC1434)
+I (..\Led.h)(0x5DAC143D)
+F (..\Uart.c)(0x6657F0B2)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\LPC17xx.h)(0x65C5F7EE)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625C51C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7840C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\system_LPC17xx.h)(0x65C5F7EE)
+I (..\uart.h)(0x6657EF5E)
+F (..\Joystick.c)(0x5DAC1434)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\objects\joystick.o --omf_browse .\objects\joystick.crf --depend .\objects\joystick.d)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\LPC17xx.h)(0x65C5F7EE)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625C51C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7840C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\system_LPC17xx.h)(0x65C5F7EE)
+I (..\Joystick.h)(0x5DAC1434)
+F (..\Led.c)(0x5DAC143A)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\LPC17xx.h)(0x65C5F7EE)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625C51C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7840C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\system_LPC17xx.h)(0x65C5F7EE)
+I (..\Led.h)(0x5DAC143D)
+F (..\Led.h)(0x5DAC143D)()
+F (..\Uart.h)(0x6657EF5E)()
+F (..\Joystick.h)(0x5DAC1434)()
+F (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM3.lib)(0x56246B16)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x556D3EF4)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x562755EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7840C)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5EC7840C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x556D3EF4)
+F (RTE\Device\LPC1768\RTE_Device.h)(0x65C5F7EE)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x65C5F7EE)(--cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x65C5F7EE)(--c99 --gnu -c --cpu Cortex-M3 -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\Device\LPC1768-I.\RTE\_Target_1-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include-IC:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC-IC:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include-D__UVISION_VERSION="527" -D_RTE_ -DLPC175x_6x-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7840C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\LPC17xx.h)(0x65C5F7EE)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625C51C)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625B160)
+I (C:\Users\Admin\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.2\Device\Include\system_LPC17xx.h)(0x65C5F7EE)
